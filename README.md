@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SutharDilip
 - 🌱 I’m a FullStack Developer.
 - 💞️ I’m looking to collaborate on Web & Application Development.
-- 📫 How to reach me through out LinkedIn.
 
 
 <!---
